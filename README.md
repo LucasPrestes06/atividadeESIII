@@ -31,7 +31,7 @@ Projeto desenvolvido para a atividade avaliativa de Git e GitHub.
 
 ## Repositório
 
-https://github.com/<LucasPrestes06>/atividadeESIII
+https://github.com/LucasPrestes06/atividadeESIII
 
 ## Site publicado
 
